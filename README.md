@@ -24,4 +24,4 @@ It demonstrates how to:
      ```bash
     python schedule.py
 
-3.Open the generated schedule.xlsx in Excel to view or modify.
+3. Open the generated schedule.xlsx in Excel to view or modify.
